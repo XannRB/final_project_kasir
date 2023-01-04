@@ -18,6 +18,7 @@ public class App {
 
     public static void main(String[] args) throws Exception {
         //ini adalah sesatu yang xann tambahkan
+        //jjjj
         // 1 buat model terlebih dahulu agar bisa digunakan di dalam arraylist
         List<Barang> listBarang = new ArrayList<Barang>();
         List<Transaksi> listTransaksi = new ArrayList<Transaksi>();
